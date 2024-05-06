@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University_STU\\Nam2\\HK2\\CTDL_GT2\\GRAPH\\ChuyenDoiDoThi_TapCanh_DanhSachKe_MatranKe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08078BDB-73B7-48FD-A1DB-E8734DADC67F}|ChuyenDoiDoThi_TapCanh_DanhSachKe_MatranKe\\ChuyenDoiDoThi_TapCanh_DanhSachKe_MatranKe.vcxproj|D:\\University_STU\\Nam2\\HK2\\CTDL_GT2\\GRAPH\\ChuyenDoiDoThi_TapCanh_DanhSachKe_MatranKe\\ChuyenDoiDoThi_TapCanh_DanhSachKe_MatranKe\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08078BDB-73B7-48FD-A1DB-E8734DADC67F}|ChuyenDoiDoThi_TapCanh_DanhSachKe_MatranKe\\ChuyenDoiDoThi_TapCanh_DanhSachKe_MatranKe.vcxproj|solutionrelative:ChuyenDoiDoThi_TapCanh_DanhSachKe_MatranKe\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08078BDB-73B7-48FD-A1DB-E8734DADC67F}|ChuyenDoiDoThi_TapCanh_DanhSachKe_MatranKe\\ChuyenDoiDoThi_TapCanh_DanhSachKe_MatranKe.vcxproj|D:\\University_STU\\Nam2\\HK2\\CTDL_GT2\\GRAPH\\ChuyenDoiDoThi_TapCanh_DanhSachKe_MatranKe\\ChuyenDoiDoThi_TapCanh_DanhSachKe_MatranKe\\Text.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{08078BDB-73B7-48FD-A1DB-E8734DADC67F}|ChuyenDoiDoThi_TapCanh_DanhSachKe_MatranKe\\ChuyenDoiDoThi_TapCanh_DanhSachKe_MatranKe.vcxproj|solutionrelative:ChuyenDoiDoThi_TapCanh_DanhSachKe_MatranKe\\Text.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Text.txt",
+              "DocumentMoniker": "D:\\University_STU\\Nam2\\HK2\\CTDL_GT2\\GRAPH\\ChuyenDoiDoThi_TapCanh_DanhSachKe_MatranKe\\ChuyenDoiDoThi_TapCanh_DanhSachKe_MatranKe\\Text.txt",
+              "RelativeDocumentMoniker": "ChuyenDoiDoThi_TapCanh_DanhSachKe_MatranKe\\Text.txt",
+              "ToolTip": "D:\\University_STU\\Nam2\\HK2\\CTDL_GT2\\GRAPH\\ChuyenDoiDoThi_TapCanh_DanhSachKe_MatranKe\\ChuyenDoiDoThi_TapCanh_DanhSachKe_MatranKe\\Text.txt",
+              "RelativeToolTip": "ChuyenDoiDoThi_TapCanh_DanhSachKe_MatranKe\\Text.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-05T09:47:05.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\University_STU\\Nam2\\HK2\\CTDL_GT2\\GRAPH\\ChuyenDoiDoThi_TapCanh_DanhSachKe_MatranKe\\ChuyenDoiDoThi_TapCanh_DanhSachKe_MatranKe\\Source.cpp",
+              "RelativeDocumentMoniker": "ChuyenDoiDoThi_TapCanh_DanhSachKe_MatranKe\\Source.cpp",
+              "ToolTip": "D:\\University_STU\\Nam2\\HK2\\CTDL_GT2\\GRAPH\\ChuyenDoiDoThi_TapCanh_DanhSachKe_MatranKe\\ChuyenDoiDoThi_TapCanh_DanhSachKe_MatranKe\\Source.cpp",
+              "RelativeToolTip": "ChuyenDoiDoThi_TapCanh_DanhSachKe_MatranKe\\Source.cpp",
+              "ViewState": "AQIAAMwAAAAAAAAAAAAAANoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-05T09:46:53.926Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
